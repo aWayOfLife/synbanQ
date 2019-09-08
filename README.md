@@ -14,4 +14,8 @@ Banker-side app to call next customer, view customer details and register custom
 
 
 ### Please Note: 
-We have developed two separate applications. Since the apps are in beta stage, kindly don't close the app while testing the application to ensure a smooth functioning. 
+We have developed two separate applications. Since the apps are in beta stage, kindly don't close the app while testing the application to ensure a smooth functioning.</br>
+
+The banQ app is supposed to work only during banking hours (10:00 - 16:00). But for testing purpose if you are opening the banking app at any other time, please abide by the following rules:</br>
+1.If testing between 00:00 - 09:59 hrs then make bookings from synQ at the slot 10:00 - 12:00.</br>
+2.If testing between 16:01 - 23:59 hrs then make bookings from synQ at the slot 10:00 - 12:00.</br>
