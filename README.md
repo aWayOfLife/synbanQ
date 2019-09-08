@@ -11,3 +11,7 @@ User-side app to book, reschedule and cancel slots before visiting bank<br/>
 Banker-side app to call next customer, view customer details and register customers as served<br/>
 [Redirect to banQ Repository](https://github.com/aWayOfLife/banQ)<br/>
 [Download Apk](https://drive.google.com/open?id=1Vkk11EZNT8tShjsWANspDeN5vVb8ghQp)<br/>
+
+
+### Please Note: 
+We have developed two separate applications. Since the apps are in beta stage, kindly don't close the app while testing the application to ensure a smooth functioning. 
