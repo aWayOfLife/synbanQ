@@ -16,9 +16,9 @@ Banker-side app to call next customer, view customer details and register custom
 ### Please Note: 
 We have developed two separate applications. Since the apps are in beta stage, kindly don't close the app while testing the application to ensure a smooth functioning.</br>
 
-1. Initially, add entries in the synQ app at a particular branch (say, Card Centre) and for a specific time slot(say, 12:00-13:00). Thereafter, one can login to the banQ app with the Banker's location as Card Centre and they would be able to viw the specific entries for a particular time slot( depending on the time when you have logged in).</br>
+1. Initially, add entries in the synQ app at a particular branch (say, Card Centre) and for a specific time slot(say, 12:00-13:00). Thereafter, one can login to the banQ app with the Banker's location as Card Centre and they would be able to view the specific entries for a particular time slot (depending on the time when you have logged in).</br>
 
-2. The banQ app is supposed to work only during banking hours (10:00 - 16:00). But for testing purpose if you are opening the banking app at any other time, please abide by the following rules:</br>
+2. The banQ app is supposed to work only during banking hours (10:00 - 16:00) using the current timings. Say the current time is 12:30; the banQ app will only display bookings made for that time slot (12:00 - 13:00). But for testing purpose if you are opening the banking app at any other time, please abide by the following rules:</br>
   i. If testing between 00:00 - 09:59 hrs then make bookings from synQ at the slot 10:00 - 12:00.</br>
   ii. If testing between 16:01 - 23:59 hrs then make bookings from synQ at the slot 10:00 - 12:00.</br>
 
